@@ -260,19 +260,23 @@ Linus is world number 1
 
 egrep 'Linux.*world' newfile 
 ## OUTPUT
-
+Linus is world number 1
 
 egrep 'Linux.*World' newfile 
 ## OUTPUT
-
+Linus is  best in this World
 
 egrep l{2} newfile
 ## OUTPUT
-
+Hello world
+hello world
 
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
+Linus is world number 1
+Unix is predecessor
+Linus is  best in this World
 
 
 cat > file23
