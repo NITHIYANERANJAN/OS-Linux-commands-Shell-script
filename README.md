@@ -1092,5 +1092,7 @@ chmod 755 palindrome.sh
 ## OUTPUT 
 ![output](./output1_87.png)
 
+
 # RESULT:
+
 The Commands are executed successfully.
